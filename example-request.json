@@ -1,0 +1,9 @@
+{
+  "input": [
+    {
+      "role": "user",
+      "content": "This is a test Reddit post. Analyze its sentiment."
+    }
+  ]
+}
+
